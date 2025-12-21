@@ -1,0 +1,32 @@
+# Hardhat files
+cache/
+artifacts/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+build/
+dist/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
