@@ -2,7 +2,7 @@
   "name": "reussitess-token",
   "version": "1.0.0",
   "description": "REUSSITESS Token - ERC20 compliant cryptocurrency token",
-  "main": "index.js",
+  "main": "contracts/REUSSITESSToken.sol",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
