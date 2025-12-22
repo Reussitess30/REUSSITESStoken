@@ -55,11 +55,11 @@ Merci de votre intérêt pour contribuer au projet REUSSITESS Token!
 - Incluez les logs ou messages d'erreur pertinents
 
 ### Soumettre des Modifications
-1. Forkez le dépôt
+1. Faites un fork du dépôt
 2. Créez une nouvelle branche pour votre fonctionnalité
 3. Effectuez vos modifications
 4. Testez vos modifications de manière approfondie
-5. Soumettez une pull request
+5. Soumettez une demande de tirage (pull request)
 
 ## Configuration de Développement
 
