@@ -40,3 +40,48 @@ npm test
 
 ## Questions?
 Feel free to open an issue for any questions or concerns.
+
+---
+
+# Contribuer à REUSSITESS Token (Français)
+
+Merci de votre intérêt pour contribuer au projet REUSSITESS Token!
+
+## Comment Contribuer
+
+### Signaler des Problèmes
+- Vérifiez si le problème existe déjà
+- Fournissez une description claire et les étapes pour reproduire
+- Incluez les logs ou messages d'erreur pertinents
+
+### Soumettre des Modifications
+1. Forkez le dépôt
+2. Créez une nouvelle branche pour votre fonctionnalité
+3. Effectuez vos modifications
+4. Testez vos modifications de manière approfondie
+5. Soumettez une pull request
+
+## Configuration de Développement
+
+### Prérequis
+- Node.js (v16 ou supérieur)
+- npm ou yarn
+- Connaissance de Solidity
+
+### Installation
+```bash
+npm install
+```
+
+### Tests
+```bash
+npm test
+```
+
+### Style de Code
+- Suivez le guide de style Solidity
+- Utilisez des noms de variables clairs et descriptifs
+- Ajoutez des commentaires pour la logique complexe
+
+## Questions?
+N'hésitez pas à ouvrir une issue pour toute question ou préoccupation.
