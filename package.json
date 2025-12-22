@@ -1,0 +1,23 @@
+{
+  "name": "reussitess-token",
+  "version": "1.0.0",
+  "description": "REUSSITESS Token - ERC20 compliant cryptocurrency token",
+  "main": "contracts/REUSSITESSToken.sol",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "erc20",
+    "token",
+    "cryptocurrency",
+    "blockchain",
+    "reussitess"
+  ],
+  "author": "REUSSITESS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Reussitess30/REUSSITESStoken.git"
+  }
+}
