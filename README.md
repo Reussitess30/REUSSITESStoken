@@ -9,7 +9,7 @@ Le **REUSSITESS Token** est un actif numérique conforme à la norme ERC-20, opt
 
 * **Nom du Jeton** : REUSSITESS Token
 * **Symbole** : REUSS
-* **Adresse du Contrat** : `0x4b3bFf4b58d22Ad363bb260e22032414d4CfdDB8`
+* **Adresse du Contrat** : `0xB37531727fC07c6EED4f97F852A115B428046EB2`
 * **Réseau** : Polygon (Matic)
 * **Offre Totale** : 1 000 000 000 REUSS (1 Milliard)
 * **Décimales** : 18
